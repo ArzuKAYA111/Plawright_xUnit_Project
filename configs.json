@@ -1,0 +1,31 @@
+{
+
+  "TestConfig": {
+    "TestName":"UITest" ,
+    "TestEnv":"QA",
+    "browser": "chrome",
+
+
+    "DevConfig": {
+      "URL": "https://www.amazon.com"
+    },
+
+    "QAConfig": {
+      "URL": "https://www.amazon.com"
+    },
+
+    "TestRailConfig" :{
+
+    }
+  }
+
+
+
+
+
+
+
+
+
+
+}
